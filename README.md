@@ -46,7 +46,7 @@ Open your browser and go to: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 Sample preview of the website:
 
 <div align="center">
-  <img src="static/images/website_preview.png" alt="Website Preview" width="600"/>
+  <img src="static/webimages/i1.png" alt="Website Preview" width="600"/>
 </div>
 
 ---
@@ -88,7 +88,7 @@ RiceLeafDiseaseDetection/
 This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
-  <img src="static/webimages/i1.png" width="300" alt="Preview 1"/>
+ 
   <img src="static/webimages/i2.png" width="300" alt="Preview 2"/>
   <img src="static/webimages/i3.png" width="300" alt="Preview 3"/>
   <img src="static/webimages/i4.png" width="300" alt="Preview 4"/>
