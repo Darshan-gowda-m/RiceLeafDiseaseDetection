@@ -55,8 +55,7 @@ Sample preview of the website:
 
 ```
 RiceLeafDiseaseDetection/
-├─ app.py                 # Flask application
-├─ model/                 # Pre-trained model files
+├─ app.py                 # Flask application              # Pre-trained model files
 ├─ static/
 │  └─ images/             # Website images
 ├─ templates/             # HTML templates
