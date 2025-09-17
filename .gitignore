@@ -1,0 +1,14 @@
+# Backup files
+*.backup.py
+*.bak
+
+# Flask instance and uploads
+instance/
+uploads/
+
+# Local DBs
+*.db
+*.sqlite3
+
+# Trained models (optional)
+*.h5

@@ -1,0 +1,8 @@
+Flask>=2.2.3
+Flask-Session>=0.4.0
+matplotlib>=3.8
+numpy>=1.26
+scikit-learn>=1.5
+scipy>=1.11
+spacy>=3.5.1
+tensorflow>=2.16.1
